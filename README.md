@@ -1,6 +1,8 @@
  # How to Roast Vegetables 
-![Vegetables](vegetables.jpg)
+
 Roasted Vegetables are a favorite fall dish in many homes in the United States. It is a simple and delicious way to prepare many in-season root vegetables. Other vegetables, such as various squashes, can also be roasted.
+
+![Vegetables](vegetables.jpg)
 
 ## Possible Vegetable Choices
   > This is not an exhaustive list but merely contains some suggestions of vegetables that are easily accessible at farmers markets, supermarkets or your own backyard at this time of year. Be creative!
